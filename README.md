@@ -1,6 +1,6 @@
 🚀 Facial Emotion Recognition (Hackathon Project)
 An AI-powered system that detects human emotions (like Happy, Sad, Angry, etc.) from facial images.
-This project is built for the [Hackathon Name] to demonstrate the use of Machine Learning in Human-Computer Interaction.
+This project is built to demonstrate the use of Machine Learning in Human-Computer Interaction.
 
 🔎 Tech Stack:
 TensorFlow & Keras (CNN model)
@@ -10,7 +10,7 @@ Python, NumPy, OpenCV, Pillow
 🎯 Features:
 Upload an image and detect the emotion in real-time
 Shows predicted emotion + confidence score
-Trained on the FER-2013 dataset (7 emotions)
+Trained on the FER2013 dataset (7 emotions)
 Light-weight model using CNN, easy to deploy
 
 🎥 Demo Video:
