@@ -1,0 +1,40 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter and Colab notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+
+# Model weights and checkpoints
+*.h5
+*.hdf5
+*.pth
+*.ckpt
+*.tflite
+*.onnx
+
+# Dataset files
+*.csv
+*.tsv
+*.zip
+*.tar.gz
+
+# Logs and outputs
+logs/
+*.log
+*.out
+
+# Streamlit temp files
+.streamlit/
+
+# Colab mount points
+/content/drive/
+
+# System files
+.DS_Store
+Thumbs.db
