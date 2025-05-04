@@ -1,5 +1,5 @@
 📓 Model Training & Testing Notebooks
-This folder contains Jupyter Notebooks used for training and testing the facial emotion recognition model.
+This folder contains Notebooks used for training and testing the facial emotion recognition model.
 You can run these notebooks directly on Google Colab.
 
 📂 Files
@@ -14,7 +14,6 @@ This project uses the FER2013 dataset:
 🚩 Important: Before Running the Notebooks
 You must upload the fer2013.csv file to your Google Drive or Colab runtime.
 ✅ Change the CSV file path in the notebook — currently it points to my personal Google Drive.
-
 Example:
 # Change this line to your own path
 df = pd.read_csv('/path/to/your/fer2013.csv')
