@@ -24,7 +24,7 @@ Trained on the FER2013 dataset (7 emotions)
 Light-weight model using CNN, easy to deploy
 
 
-🎥 Demo Video:
+🎥 Demo Video:https://youtu.be/PnJy071HQ_8
 
 
 
